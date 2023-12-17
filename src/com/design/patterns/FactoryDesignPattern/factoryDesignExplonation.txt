@@ -1,0 +1,21 @@
+I would like to say that there is no specific example for the Factory design pattern, as is the case with other design patterns.
+The scenario here was entirely related to the problem of running codes containing the desired values according to the Localization values,
+which is a problem I encountered in real life. Before this, we would decide which code should be run in an if-else block according to the language value,
+which was a hard-coded example and was an application that decreased readability and increased complexity over time, and was not very useful.
+After our senior developer mentioned that it might be a good idea to use this pattern for this type of problem, we got to work and fixed the code as desired.
+A more flexible and useful version of the code is now used in the project.
+
+Hope theese codes are helpfully for you :)
+
+If you want to see real life code example picture for this pattern maybe you can look up my medium post;
+Medium Link : -
+
+For your questions or if you would like to follow me on social media:
+🚀 LinkedIn: https://www.linkedin.com/in/merve-tagci/
+🧶 Medium: https://medium.com/@mervetagci
+💡 GitHub: https://github.com/mervetagci
+🦊 GitLab: https://gitlab.com/mervetagci
+🟢 Hackerrank: https://www.hackerrank.com/profile/mervetagci
+🐦 Twitter: https://twitter.com/mervetagci1
+
+
